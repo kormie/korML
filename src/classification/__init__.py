@@ -1,0 +1,1 @@
+from .soft_max_X_categorical_cross import SoftMaxXCategoricalCrossEntropy as SoftCat

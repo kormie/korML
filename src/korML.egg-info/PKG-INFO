@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: korML
+Version: 0.1.0a0
+Summary: KorML is a Python library for machine learning
+Author-email: David Kormushoff <kormie@gmail.com>
+Requires-Python: >=3.10.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content

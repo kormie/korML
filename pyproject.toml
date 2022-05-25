@@ -1,0 +1,21 @@
+[project]
+    name = "korML"
+    version = "0.1.0-alpha"
+    description = "KorML is a Python library for machine learning"
+    readme = "README.md"
+    requires-python = ">=3.10.1"
+    
+    [[project.authors]]
+        name = "David Kormushoff"
+        email = "kormie@gmail.com"
+
+    [project.license] 
+        file = "LICENSE"
+
+[dependencies]
+    numpy = ">=1.16.0"
+    opencv-python = ">=4.1.0"
+    matplotlib = ">=3.1.1"
+
+[dev-dependencies]
+    nnfs = ">=0.1.0"
